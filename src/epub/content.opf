@@ -80,8 +80,34 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/a-baby-tramp.xhtml" id="a-baby-tramp.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-diagnosis-of-death.xhtml" id="a-diagnosis-of-death.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-jug-of-sirup.xhtml" id="a-jug-of-sirup.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-psychological-shipwreck.xhtml" id="a-psychological-shipwreck.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-resumed-identity.xhtml" id="a-resumed-identity.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-tough-tussle.xhtml" id="a-tough-tussle.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/an-inhabitant-of-carcosa.xhtml" id="an-inhabitant-of-carcosa.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/beyond-the-wall.xhtml" id="beyond-the-wall.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/haita-the-shepherd.xhtml" id="haita-the-shepherd.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/john-bartines-watch.xhtml" id="john-bartines-watch.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/john-mortonsons-funeral.xhtml" id="john-mortonsons-funeral.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/moxons-master.xhtml" id="moxons-master.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/one-of-twins.xhtml" id="one-of-twins.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/one-summer-night.xhtml" id="one-summer-night.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/present-at-a-hanging.xhtml" id="present-at-a-hanging.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/staley-flemings-hallucination.xhtml" id="staley-flemings-hallucination.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-damned-thing.xhtml" id="the-damned-thing.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-death-of-halpin-frayser.xhtml" id="the-death-of-halpin-frayser.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-haunted-valley.xhtml" id="the-haunted-valley.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-middle-toe-of-the-right-foot.xhtml" id="the-middle-toe-of-the-right-foot.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-moonlit-road.xhtml" id="the-moonlit-road.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-night-doings-at-deadmans.xhtml" id="the-night-doings-at-deadmans.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-realm-of-the-unreal.xhtml" id="the-realm-of-the-unreal.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-secret-of-macargers-gulch.xhtml" id="the-secret-of-macargers-gulch.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-stranger.xhtml" id="the-stranger.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-ways-of-ghosts.xhtml" id="the-ways-of-ghosts.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
@@ -89,6 +115,32 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="the-death-of-halpin-frayser.xhtml"/>
+		<itemref idref="the-secret-of-macargers-gulch.xhtml"/>
+		<itemref idref="one-summer-night.xhtml"/>
+		<itemref idref="the-moonlit-road.xhtml"/>
+		<itemref idref="a-diagnosis-of-death.xhtml"/>
+		<itemref idref="moxons-master.xhtml"/>
+		<itemref idref="a-tough-tussle.xhtml"/>
+		<itemref idref="one-of-twins.xhtml"/>
+		<itemref idref="the-haunted-valley.xhtml"/>
+		<itemref idref="a-jug-of-sirup.xhtml"/>
+		<itemref idref="staley-flemings-hallucination.xhtml"/>
+		<itemref idref="a-resumed-identity.xhtml"/>
+		<itemref idref="a-baby-tramp.xhtml"/>
+		<itemref idref="the-night-doings-at-deadmans.xhtml"/>
+		<itemref idref="beyond-the-wall.xhtml"/>
+		<itemref idref="a-psychological-shipwreck.xhtml"/>
+		<itemref idref="the-middle-toe-of-the-right-foot.xhtml"/>
+		<itemref idref="john-mortonsons-funeral.xhtml"/>
+		<itemref idref="the-realm-of-the-unreal.xhtml"/>
+		<itemref idref="john-bartines-watch.xhtml"/>
+		<itemref idref="the-damned-thing.xhtml"/>
+		<itemref idref="haita-the-shepherd.xhtml"/>
+		<itemref idref="an-inhabitant-of-carcosa.xhtml"/>
+		<itemref idref="the-stranger.xhtml"/>
+		<itemref idref="the-ways-of-ghosts.xhtml"/>
+		<itemref idref="present-at-a-hanging.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
