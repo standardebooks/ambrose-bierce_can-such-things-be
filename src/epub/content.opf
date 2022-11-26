@@ -84,6 +84,7 @@
 		<item href="text/a-cold-greeting.xhtml" id="a-cold-greeting.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-diagnosis-of-death.xhtml" id="a-diagnosis-of-death.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-jug-of-sirup.xhtml" id="a-jug-of-sirup.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-man-with-two-lives.xhtml" id="a-man-with-two-lives.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-psychological-shipwreck.xhtml" id="a-psychological-shipwreck.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-resumed-identity.xhtml" id="a-resumed-identity.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-tough-tussle.xhtml" id="a-tough-tussle.xhtml" media-type="application/xhtml+xml"/>
@@ -100,6 +101,7 @@
 		<item href="text/one-of-twins.xhtml" id="one-of-twins.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/one-summer-night.xhtml" id="one-summer-night.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/present-at-a-hanging.xhtml" id="present-at-a-hanging.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/soldier-folk.xhtml" id="soldier-folk.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/staley-flemings-hallucination.xhtml" id="staley-flemings-hallucination.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-damned-thing.xhtml" id="the-damned-thing.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-death-of-halpin-frayser.xhtml" id="the-death-of-halpin-frayser.xhtml" media-type="application/xhtml+xml"/>
@@ -147,6 +149,8 @@
 		<itemref idref="a-cold-greeting.xhtml"/>
 		<itemref idref="a-wireless-message.xhtml"/>
 		<itemref idref="an-arrest.xhtml"/>
+		<itemref idref="soldier-folk.xhtml"/>
+		<itemref idref="a-man-with-two-lives.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
