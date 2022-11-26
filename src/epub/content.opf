@@ -81,6 +81,7 @@
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/a-baby-tramp.xhtml" id="a-baby-tramp.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-cold-greeting.xhtml" id="a-cold-greeting.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-diagnosis-of-death.xhtml" id="a-diagnosis-of-death.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-jug-of-sirup.xhtml" id="a-jug-of-sirup.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-psychological-shipwreck.xhtml" id="a-psychological-shipwreck.xhtml" media-type="application/xhtml+xml"/>
@@ -141,6 +142,7 @@
 		<itemref idref="the-stranger.xhtml"/>
 		<itemref idref="the-ways-of-ghosts.xhtml"/>
 		<itemref idref="present-at-a-hanging.xhtml"/>
+		<itemref idref="a-cold-greeting.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
