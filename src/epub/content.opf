@@ -84,6 +84,7 @@
 		<item href="text/a-baffled-ambuscade.xhtml" id="a-baffled-ambuscade.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-cold-greeting.xhtml" id="a-cold-greeting.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-diagnosis-of-death.xhtml" id="a-diagnosis-of-death.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-fruitless-assignment.xhtml" id="a-fruitless-assignment.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-jug-of-sirup.xhtml" id="a-jug-of-sirup.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-man-with-two-lives.xhtml" id="a-man-with-two-lives.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-psychological-shipwreck.xhtml" id="a-psychological-shipwreck.xhtml" media-type="application/xhtml+xml"/>
@@ -162,6 +163,7 @@
 		<itemref idref="two-military-executions.xhtml"/>
 		<itemref idref="some-haunted-houses.xhtml"/>
 		<itemref idref="the-isle-of-pines.xhtml"/>
+		<itemref idref="a-fruitless-assignment.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
