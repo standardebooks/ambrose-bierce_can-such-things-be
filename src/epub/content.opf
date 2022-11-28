@@ -94,6 +94,7 @@
 		<item href="text/an-inhabitant-of-carcosa.xhtml" id="an-inhabitant-of-carcosa.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/beyond-the-wall.xhtml" id="beyond-the-wall.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/haita-the-shepherd.xhtml" id="haita-the-shepherd.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/john-bartines-watch.xhtml" id="john-bartines-watch.xhtml" media-type="application/xhtml+xml"/>
@@ -103,10 +104,12 @@
 		<item href="text/one-summer-night.xhtml" id="one-summer-night.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/present-at-a-hanging.xhtml" id="present-at-a-hanging.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/soldier-folk.xhtml" id="soldier-folk.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/some-haunted-houses.xhtml" id="some-haunted-houses.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/staley-flemings-hallucination.xhtml" id="staley-flemings-hallucination.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-damned-thing.xhtml" id="the-damned-thing.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-death-of-halpin-frayser.xhtml" id="the-death-of-halpin-frayser.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-haunted-valley.xhtml" id="the-haunted-valley.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-isle-of-pines.xhtml" id="the-isle-of-pines.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-middle-toe-of-the-right-foot.xhtml" id="the-middle-toe-of-the-right-foot.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-moonlit-road.xhtml" id="the-moonlit-road.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-night-doings-at-deadmans.xhtml" id="the-night-doings-at-deadmans.xhtml" media-type="application/xhtml+xml"/>
@@ -157,6 +160,8 @@
 		<itemref idref="three-and-one-are-one.xhtml"/>
 		<itemref idref="a-baffled-ambuscade.xhtml"/>
 		<itemref idref="two-military-executions.xhtml"/>
+		<itemref idref="some-haunted-houses.xhtml"/>
+		<itemref idref="the-isle-of-pines.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
