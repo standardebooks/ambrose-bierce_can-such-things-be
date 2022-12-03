@@ -90,6 +90,7 @@
 		<item href="text/a-psychological-shipwreck.xhtml" id="a-psychological-shipwreck.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-resumed-identity.xhtml" id="a-resumed-identity.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-tough-tussle.xhtml" id="a-tough-tussle.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-vine-on-a-house.xhtml" id="a-vine-on-a-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-wireless-message.xhtml" id="a-wireless-message.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/an-arrest.xhtml" id="an-arrest.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/an-inhabitant-of-carcosa.xhtml" id="an-inhabitant-of-carcosa.xhtml" media-type="application/xhtml+xml"/>
@@ -164,6 +165,7 @@
 		<itemref idref="some-haunted-houses.xhtml"/>
 		<itemref idref="the-isle-of-pines.xhtml"/>
 		<itemref idref="a-fruitless-assignment.xhtml"/>
+		<itemref idref="a-vine-on-a-house.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
