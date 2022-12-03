@@ -116,6 +116,7 @@
 		<item href="text/the-middle-toe-of-the-right-foot.xhtml" id="the-middle-toe-of-the-right-foot.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-moonlit-road.xhtml" id="the-moonlit-road.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-night-doings-at-deadmans.xhtml" id="the-night-doings-at-deadmans.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-other-lodgers.xhtml" id="the-other-lodgers.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-realm-of-the-unreal.xhtml" id="the-realm-of-the-unreal.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-secret-of-macargers-gulch.xhtml" id="the-secret-of-macargers-gulch.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-spook-house.xhtml" id="the-spook-house.xhtml" media-type="application/xhtml+xml"/>
@@ -170,6 +171,7 @@
 		<itemref idref="a-vine-on-a-house.xhtml"/>
 		<itemref idref="at-old-man-eckerts.xhtml"/>
 		<itemref idref="the-spook-house.xhtml"/>
+		<itemref idref="the-other-lodgers.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
