@@ -118,6 +118,7 @@
 		<item href="text/the-night-doings-at-deadmans.xhtml" id="the-night-doings-at-deadmans.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-realm-of-the-unreal.xhtml" id="the-realm-of-the-unreal.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-secret-of-macargers-gulch.xhtml" id="the-secret-of-macargers-gulch.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-spook-house.xhtml" id="the-spook-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-stranger.xhtml" id="the-stranger.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-ways-of-ghosts.xhtml" id="the-ways-of-ghosts.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/three-and-one-are-one.xhtml" id="three-and-one-are-one.xhtml" media-type="application/xhtml+xml"/>
@@ -168,6 +169,7 @@
 		<itemref idref="a-fruitless-assignment.xhtml"/>
 		<itemref idref="a-vine-on-a-house.xhtml"/>
 		<itemref idref="at-old-man-eckerts.xhtml"/>
+		<itemref idref="the-spook-house.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
