@@ -42,9 +42,9 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4366</dc:source>
 		<dc:source>http://www.ambrosebierce.org/works.html</dc:source>
-		<dc:source>https://www.google.com/books/edition/Can_Such_Things_Be/Jc1EAQAAMAAJ</dc:source>
 		<dc:source>https://archive.org/details/cu31924021998814</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/cansuchthingsbe00bierrich</dc:source>
+		<meta property="se:production-notes">Some transcriptions from gutenberg, most of the rest from ambrosebierce.org, with the 'bodies of the dead' done by me from the 2nd archive.org source.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
@@ -64,6 +64,9 @@
 		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
 		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-2">Anonymous</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Anonymous</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Anonymous</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Anonymous</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
@@ -83,9 +86,12 @@
 		<item href="text/a-baby-tramp.xhtml" id="a-baby-tramp.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-baffled-ambuscade.xhtml" id="a-baffled-ambuscade.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-cold-greeting.xhtml" id="a-cold-greeting.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-cold-night.xhtml" id="a-cold-night.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-creature-of-habit.xhtml" id="a-creature-of-habit.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-diagnosis-of-death.xhtml" id="a-diagnosis-of-death.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-fruitless-assignment.xhtml" id="a-fruitless-assignment.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-jug-of-sirup.xhtml" id="a-jug-of-sirup.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-light-sleeper.xhtml" id="a-light-sleeper.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-man-with-two-lives.xhtml" id="a-man-with-two-lives.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-psychological-shipwreck.xhtml" id="a-psychological-shipwreck.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-resumed-identity.xhtml" id="a-resumed-identity.xhtml" media-type="application/xhtml+xml"/>
@@ -97,8 +103,10 @@
 		<item href="text/an-unfinished-race.xhtml" id="an-unfinished-race.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/at-old-man-eckerts.xhtml" id="at-old-man-eckerts.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/beyond-the-wall.xhtml" id="beyond-the-wall.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/bodies-of-the-dead.xhtml" id="bodies-of-the-dead.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/charles-ashmores-trail.xhtml" id="charles-ashmores-trail.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/dead-and-gone.xhtml" id="dead-and-gone.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/haita-the-shepherd.xhtml" id="haita-the-shepherd.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
@@ -113,6 +121,7 @@
 		<item href="text/soldier-folk.xhtml" id="soldier-folk.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/some-haunted-houses.xhtml" id="some-haunted-houses.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/staley-flemings-hallucination.xhtml" id="staley-flemings-hallucination.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/that-of-granny-magone.xhtml" id="that-of-granny-magone.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-damned-thing.xhtml" id="the-damned-thing.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-death-of-halpin-frayser.xhtml" id="the-death-of-halpin-frayser.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-difficulty-of-crossing-a-field.xhtml" id="the-difficulty-of-crossing-a-field.xhtml" media-type="application/xhtml+xml"/>
@@ -120,6 +129,7 @@
 		<item href="text/the-isle-of-pines.xhtml" id="the-isle-of-pines.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-middle-toe-of-the-right-foot.xhtml" id="the-middle-toe-of-the-right-foot.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-moonlit-road.xhtml" id="the-moonlit-road.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-mystery-of-charles-farquharson.xhtml" id="the-mystery-of-charles-farquharson.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-night-doings-at-deadmans.xhtml" id="the-night-doings-at-deadmans.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-other-lodgers.xhtml" id="the-other-lodgers.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-realm-of-the-unreal.xhtml" id="the-realm-of-the-unreal.xhtml" media-type="application/xhtml+xml"/>
@@ -179,6 +189,13 @@
 		<itemref idref="the-spook-house.xhtml"/>
 		<itemref idref="the-other-lodgers.xhtml"/>
 		<itemref idref="the-thing-at-nolan.xhtml"/>
+		<itemref idref="bodies-of-the-dead.xhtml"/>
+		<itemref idref="that-of-granny-magone.xhtml"/>
+		<itemref idref="a-light-sleeper.xhtml"/>
+		<itemref idref="the-mystery-of-charles-farquharson.xhtml"/>
+		<itemref idref="dead-and-gone.xhtml"/>
+		<itemref idref="a-cold-night.xhtml"/>
+		<itemref idref="a-creature-of-habit.xhtml"/>
 		<itemref idref="mysterious-disappearances.xhtml"/>
 		<itemref idref="the-difficulty-of-crossing-a-field.xhtml"/>
 		<itemref idref="an-unfinished-race.xhtml"/>
