@@ -44,7 +44,7 @@
 		<dc:source>http://www.ambrosebierce.org/works.html</dc:source>
 		<dc:source>https://archive.org/details/cu31924021998814</dc:source>
 		<dc:source>https://archive.org/details/cansuchthingsbe00bierrich</dc:source>
-		<meta property="se:production-notes">Some transcriptions from gutenberg, most of the rest from ambrosebierce.org, with the 'bodies of the dead' done by me from the 2nd archive.org source.</meta>
+		<meta property="se:production-notes">About half the transcriptions from gutenberg, which used an abridged source, and most of the rest from ambrosebierce.org. Both sets text matches the Collected Works editions, I compared against OCR for each story. I transcribed 'Bodies of the Dead' myself from the second archive.org source as these stories weren't included in the 'collected works' version of the collection.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
@@ -60,9 +60,8 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">David Price</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Price, David</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Anonymous</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Anonymous</meta>
