@@ -78,6 +78,19 @@ p span.i2{
 	text-indent: -1em;
 }
 /* End Poetry */
+
+/* Signature */
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}
+/* End Signature */
+
+/* Footer */
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+/* End Footer */
 /* End Manual of Style CSS */
 
 /* Memorial Stones */
