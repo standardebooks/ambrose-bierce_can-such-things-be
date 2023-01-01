@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="the-night-doings-at-deadmans.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>1 instance. Dialog from the same speaker spans multiple p elements.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
