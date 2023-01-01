@@ -1,2 +1,13 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
+
+/* Memorial Stones */
+#the-haunted-valley blockquote,
+#a-resumed-identity blockquote {
+	text-align: center;
+}
+#the-haunted-valley blockquote b,
+#a-resumed-identity blockquote b {			
+	text-transform: uppercase;
+}
