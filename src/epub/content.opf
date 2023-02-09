@@ -96,7 +96,7 @@
 		<item href="text/a-creature-of-habit.xhtml" id="a-creature-of-habit.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-diagnosis-of-death.xhtml" id="a-diagnosis-of-death.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-fruitless-assignment.xhtml" id="a-fruitless-assignment.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/a-jug-of-sirup.xhtml" id="a-jug-of-sirup.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-jug-of-syrup.xhtml" id="a-jug-of-syrup.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-light-sleeper.xhtml" id="a-light-sleeper.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-man-with-two-lives.xhtml" id="a-man-with-two-lives.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-psychological-shipwreck.xhtml" id="a-psychological-shipwreck.xhtml" media-type="application/xhtml+xml"/>
@@ -162,7 +162,7 @@
 		<itemref idref="a-tough-tussle.xhtml"/>
 		<itemref idref="one-of-twins.xhtml"/>
 		<itemref idref="the-haunted-valley.xhtml"/>
-		<itemref idref="a-jug-of-sirup.xhtml"/>
+		<itemref idref="a-jug-of-syrup.xhtml"/>
 		<itemref idref="staley-flemings-hallucination.xhtml"/>
 		<itemref idref="a-resumed-identity.xhtml"/>
 		<itemref idref="a-baby-tramp.xhtml"/>
