@@ -45,8 +45,9 @@
 		<dc:language>en-US</dc:language>
 		<!-- Only about half of the stories are transcribed at PG from an scan of a later abridged edition, but the text matches the scans from the Collected Works edition -->
 		<dc:source>https://www.gutenberg.org/ebooks/4366</dc:source>
-		<!-- The rest of the stories are transcribed at www.ambrosebierce.org except for those in the "Bodies of the Dead" section -->
-		<dc:source>http://www.ambrosebierce.org/works.html</dc:source>
+		<!-- The rest of the stories were transcribed at www.ambrosebierce.org  except for those in the "Bodies of the Dead" section -->
+		<!-- Dead link at time of editorial review, so wayback machine link added -->
+		<dc:source>https://web.archive.org/web/20221028003853/http://www.ambrosebierce.org/works.html</dc:source>
 		<!-- Scan Source 1: Collected Works, most of the stories except for those in the "Bodies of the Dead" section -->
 		<dc:source>https://archive.org/details/cu31924021998814</dc:source>
 		<!-- Scan Source 2: "Can Such Things Be?" collection which included the "Bodies of the Dead" stories -->
