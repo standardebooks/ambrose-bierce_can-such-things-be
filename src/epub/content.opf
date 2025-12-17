@@ -56,7 +56,7 @@
 		<!-- Scan Source 2: "Can Such Things Be?" collection which included the "Bodies of the Dead" stories -->
 		<dc:source>https://archive.org/details/cansuchthingsbe00bierrich</dc:source>
 		<meta property="se:production-notes">About half the transcriptions from Project Gutenberg, which used an abridged collection, and most of the rest from ambrosebierce.org. Both sets of text match the Collected Works editions, I compared against OCR for each story. I transcribed ‘Bodies of the Dead’ myself from the second archive.org source as these stories weren’t included in the ‘collected works’ version of the collection.</meta>
-		<meta property="se:word-count">81444</meta>
+		<meta property="se:word-count">81445</meta>
 		<meta property="se:reading-ease.flesch">67.69</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ambrose-bierce_can-such-things-be</meta>
 		<dc:creator id="author">Ambrose Bierce</dc:creator>
