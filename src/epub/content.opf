@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/ambrose-bierce/can-such-things-be</dc:identifier>
 		<dc:date>2023-02-13T18:12:05Z</dc:date>
@@ -38,14 +38,14 @@
 		<meta property="term" refines="#subject-2">sh98004865</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:description id="description">A collection of Ambrose Bierce’s short supernatural horror stories.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A collection of Ambrose Bierce’s short supernatural horror stories.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/ambrose-bierce"&gt;Ambrose Bierce’s&lt;/a&gt; second major short story collection, &lt;i&gt;Can Such Things Be?&lt;/i&gt; collected nearly all of Bierce’s supernatural horror stories.&lt;/p&gt;
 			&lt;p&gt;Bierce himself was a skeptic of the supernatural, having once written a satirical essay “The Clothing of Ghosts,” in which he insisted that “The materialized spook appealing to our senses for recognition of his ghostly character must authenticate himself otherwise than by familiar and remembered habiliments. He must be credentialed by nudity—and that regardless of temperature or who may happen to be present.”&lt;/p&gt;
 			&lt;p&gt;Despite his personal skepticism, Bierce was able to capture the essence of the supernatural horror story. “The Moonlit Road” is a strong example, providing three distinct vantage points of the same events, and both “The Death of Halpin Frayser” and “The Damned Thing” are frequently anthologized as pioneers in the genre. Not all stories in the collection are strictly “ghost stories”—“Moxon’s Master” is one of the first examples in English literature to describe a robotic thinking machine (and the fate of its master), and “Haïta the Shepherd” is a tale of a young man’s search for meaning in his life. Bierce also plays with the idea of holes in reality in the various “Mysterious Disappearances” stories, portals to horrifying locations in “The Spook House,” and parallel dimensions or altered states in “A Psychological Shipwreck” and “The Realm of the Unreal.”&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/h-p-lovecraft"&gt;&lt;abbr&gt;H.P.&lt;/abbr&gt; Lovecraft&lt;/a&gt; discusses Bierce in his essay “Supernatural Horror in Literature,” quoting Samuel Loveman: “In Bierce, the evocation of horror becomes for the first time, not so much the prescription or perversion of &lt;a href="https://standardebooks.org/ebooks/edgar-allan-poe"&gt;Poe&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/guy-de-maupassant"&gt;Maupassant&lt;/a&gt;, but an atmosphere definite and uncannily precise. Words, so simple that one would be prone to ascribe them to the limitations of a literary hack, take on an unholy horror, a new and unguessed transformation.”&lt;/p&gt;
 			&lt;p&gt;Like his other major published collection of short stories, Bierce updated and modified his stories for each new edition. This collection includes all stories as revised and published in his 1910 &lt;i&gt;Collected Works, Volume III: Can Such Things Be?&lt;/i&gt;, as well as several stories from the “Bodies of the Dead” section in an earlier 1903 edition, which were not included in his &lt;i&gt;Collected Works&lt;/i&gt;.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<!-- Only about half of the stories are transcribed at PG from an scan of a later abridged edition, but the text matches the scans from the Collected Works edition -->
 		<dc:source>https://www.gutenberg.org/ebooks/4366</dc:source>
