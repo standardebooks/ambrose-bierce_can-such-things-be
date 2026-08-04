@@ -38,7 +38,7 @@
 		<meta property="term" refines="#subject-2">sh98004865</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:abstract>A collection of Ambrose Bierce’s short supernatural horror stories.</dc:abstract>
+		<meta property="schema:abstract">A collection of Ambrose Bierce’s short supernatural horror stories.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/ambrose-bierce"&gt;Ambrose Bierce’s&lt;/a&gt; second major short story collection, &lt;i&gt;Can Such Things Be?&lt;/i&gt; collected nearly all of Bierce’s supernatural horror stories.&lt;/p&gt;
 			&lt;p&gt;Bierce himself was a skeptic of the supernatural, having once written a satirical essay “The Clothing of Ghosts,” in which he insisted that “The materialized spook appealing to our senses for recognition of his ghostly character must authenticate himself otherwise than by familiar and remembered habiliments. He must be credentialed by nudity—and that regardless of temperature or who may happen to be present.”&lt;/p&gt;
